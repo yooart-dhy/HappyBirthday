@@ -40,10 +40,10 @@ Before you start customizing, collect the following:
 
 | Item | Description | Example |
 |------|-------------|---------|
-| **Their Name** | The birthday person's name | "Sarah", "John" |
-| **Their Age** | The age they're turning | 22, 25, 30 |
-| **Birthday Date** | Their birthday (for countdown) | "January 25, 2025" |
-| **Your Name** | Your name (the creator) | "Alex" |
+| **Their Name** | The birthday person's name | Dewi |
+| **Their Age** | The age they're turning | 24 |
+| **Birthday Date** | Their birthday (for countdown) | "October 27, 2026 |
+| **Your Name** | Your name (the creator) | Iyo |
 
 ### Photos Needed
 
